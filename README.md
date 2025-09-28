@@ -3,9 +3,9 @@
 
 📌 Virginia, USA <br>
 ⌚ EST
-### Hola 👋  
+## Hola 👋  
 
-## 🔭 Currently Working On [VIAstra](https://github.com/nishat09/VIAstra)
+## 🧑‍🏭 Currently Working On [VIAstra](https://github.com/nishat09/VIAstra)
 
 ## 🔨 Gears
 
