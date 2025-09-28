@@ -1,9 +1,17 @@
-# <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rocket-24.svg" width="28" height="28" alt="rocket" /> Hi, I'm Aziz
+# 🇧🇩 🇺🇸  Hi, I'm Aziz  
 
-**AI & Full-Stack Engineer in Chesapeake, VA — shipping production ML systems (VIAstra) and clean, scalable web apps.**
+🌍 **Location:** <img src="https://img.icons8.com/emoji/24/000000/world-map-emoji.png"/> **Virginia, USA**
 
-## 🔥 Currently Working On
-[VIAstra](https://github.com/nishat09/VIAstra) — MERN + Flask inference + Computer Vision (CNN) for VIA screening.
+### সালাম 👋  
+**AI & Full-Stack Engineer — building production-ready ML systems and clean, scalable web apps.**
+
+---
+
+## 🔭 Currently Working On  
+[VIAstra](https://github.com/nishat09/VIAstra)
+
+---
+
 
 ---
 
