@@ -5,8 +5,7 @@
 ⌚ EST
 ## Hola 👋  
 
-## 🔭 Currently Working On  
-- [VIAstra](https://github.com/nishat09/VIAstra)
+- Currently working on [VIAstra](https://github.com/nishat09/VIAstra)
 
 ## 🔨 Gears
 
