@@ -1,6 +1,8 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="28"/>     <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="28"/> 
+# ![UsaFlagGIF](https://github.com/user-attachments/assets/bf404882-411f-460e-bd16-28e84935156b)
+![BangladeshBgdGIF](https://github.com/user-attachments/assets/75cccfc0-764f-42dc-83c1-613f60b8df5d)
 
-🌍 Virginia, USA <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="20"/> 
+
+🌍 Virginia, USA <br>
 ⌚ EST
 
 ### Hola 👋  
