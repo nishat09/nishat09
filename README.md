@@ -1,6 +1,6 @@
-# 🇧🇩 🇺🇸  Hi, I'm Aziz  
+# 🇧🇩 🇺🇸 Hi, I'm Aziz  
 
-🌍 **Location:** <img src="https://img.icons8.com/emoji/24/000000/world-map-emoji.png"/> **Virginia, USA**
+🌍 **Location:** 🗺️ Virginia, USA  
 
 ### সালাম 👋  
 **AI & Full-Stack Engineer — building production-ready ML systems and clean, scalable web apps.**
@@ -9,6 +9,8 @@
 
 ## 🔭 Currently Working On  
 [VIAstra](https://github.com/nishat09/VIAstra)
+
+---
 
 ---
 
