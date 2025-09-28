@@ -9,7 +9,35 @@
 
 | 📝 **Languages** | 🤖 **ML / AI / GenAI** |
 |---|---|
-| <p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,swift,html,css&perline=8" /> </p> | <p align="left"> <img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=7" /> <br> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/CNN%20Architectures-0b82f2"> <img src="https://img.shields.io/badge/LangChain-0f172a"> <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20GenAI-F80000?logo=oracle&logoColor=white"> </p> |
+| <p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,swift,html,css&perline=8" /> </p> | <p align="left"> <img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=7" /> <br><!-- ML & AI Card -->
+<div style="border:2px solid #eaeaea; border-radius:10px; padding:15px; margin-bottom:20px;">
+<h3>🤖 Machine Learning, AI & GenAI</h3>
+<p align="left">
+  <!-- Core ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/CNN%20Architectures-0b82f2">
+  
+  <!-- LLM / GenAI -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20GenAI-F80000?logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black">
+  
+  <!-- MLOps / Deployment -->
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+  
+  <!-- Vector DBs / Data Eng -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white">
+  <img src="https://img.shields.io/badge/Vector%20DBs%20(Pinecone/Weaviate)-00B2FF">
+</p>
+</div>
+
 
 | 🧱 **Frameworks (Web/Backend)** | ⚙️ **Tools & Platforms** |
 |---|---|
