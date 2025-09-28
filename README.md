@@ -1,6 +1,6 @@
-# 🇧🇩 🇺🇸 Hi, I'm Aziz  
+# <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="28"/> <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="28"/> Hi, I'm Aziz  
 
-🌍 **Location:** 🗺️ Virginia, USA  
+🌍 **Location:** <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="20"/> Virginia, USA  
 
 ### সালাম 👋  
 **AI & Full-Stack Engineer — building production-ready ML systems and clean, scalable web apps.**
@@ -9,6 +9,8 @@
 
 ## 🔭 Currently Working On  
 [VIAstra](https://github.com/nishat09/VIAstra)
+
+---
 
 ---
 
