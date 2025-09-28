@@ -1,28 +1,12 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="28"/> <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="28"/> Hi, I'm Aziz  
+# <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="28"/>     <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="28"/> 
 
-🌍 **Location:** <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="20"/> Virginia, USA  
+🌍 Virginia, USA <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="20"/> 
+⌚ EST
 
-### সালাম 👋  
-**AI & Full-Stack Engineer — building production-ready ML systems and clean, scalable web apps.**
+### Hola 👋  
+## 🔭 Currently Working On [VIAstra](https://github.com/nishat09/VIAstra)
 
----
-
-## 🔭 Currently Working On  
-[VIAstra](https://github.com/nishat09/VIAstra)
-
----
-
----
-
----
-
-
----
-
-
----
-
-## 🧰 Tech — Four Cards
+## 🔨 Gears
 
 | 📝 **Languages** | 🤖 **ML / AI / GenAI** | 🧱 **Frameworks** | ⚙️ **Tools & Platforms** |
 |---|---|---|---|
@@ -30,12 +14,4 @@
 
 ---
 
-## 🚀 Featured Projects
-- [VIAstra](https://github.com/nishat09/VIAstra) — AI-powered VIA screening (MERN + Flask + CV).
-- [BurnOut Multi-Agent Exercise Planner](https://github.com/nishat09/BurnOut-MultiAgent-Exercise-Planner) — multi-agent fitness app.
-- [Social Stock Discussion App](https://github.com/nishat09/Stock-Market-Media) — C#/.NET + SQL Server platform.
 
----
-
-## 🔗 Links
-[GitHub](https://github.com/nishat09) • [LinkedIn](https://www.linkedin.com/in/nishataziz) • [Email](mailto:nishataziz09@gmail.com)
