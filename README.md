@@ -1,11 +1,8 @@
-# 👋 Hey, I'm Aziz
+# Hey, I'm Aziz. I like to call myself digital craftsman.
 
-## 🔥 Currently Working On
-[VIAstra](https://github.com/nishat09/VIAstra) — MERN + Flask inference + Computer Vision models for VIA screening.
+##  Currently Working On : [VIAstra](https://github.com/nishat09/VIAstra) 
 
----
-
-## 🧰 Tech — Four Cards (Even Layout)
+## Languages & Tools
 
 | 📝 **Languages** | 🤖 **ML / AI / GenAI** |
 |---|---|
@@ -15,14 +12,3 @@
 |---|---|
 | <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,django,flask,streamlit&perline=4" /> </p> | <p align="center"> <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,aws,azure,mongodb,firebase,postgres&perline=4" /> <br> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white"> </p> |
 
----
-
-## 🚀 Highlighted Projects
-- [VIAstra](https://github.com/nishat09/VIAstra) — AI-powered VIA screening (MERN + Flask + CV).
-- [BurnOut Multi-Agent Exercise Planner](https://github.com/nishat09/BurnOut-MultiAgent-Exercise-Planner) — multi-agent fitness app.
-- [Social Stock Discussion App](https://github.com/nishat09/Stock-Market-Media) — C#/.NET + SQL Server platform.
-
----
-
-## 🤝 Connect
-[LinkedIn](https://www.linkedin.com/in/nishataziz) • [GitHub](https://github.com/nishat09)
