@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Aziz  
 
 ## 🔥 Currently Working On  
-[VIAstra](https://github.com/nishat09/VIAstra) – An end-to-end cervical cancer screening system integrating **MERN stack + Flask AI inference** to automate VIA screening and improve diagnostic accuracy.
+[VIAstra](https://github.com/nishat09/VIAstra) – An end-to-end cervical cancer screening system integrating **MERN stack + Flask AI inference + advanced ML** to automate VIA screening and improve diagnostic accuracy.
 
 ---
 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Frameworks & Libraries  
+### Frameworks & Libraries (Web + Backend)  
 <p align="left">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -30,9 +30,18 @@
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### Machine Learning, AI & GenAI  
+<p align="left">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CNN%20Architectures-0096FF?style=for-the-badge&logo=deep-learning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Oracle%20GenAI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ### Tools & Platforms  
@@ -53,7 +62,7 @@
 ---
 
 ## 🚀 Highlighted Projects  
-- [VIAstra](https://github.com/nishat09/VIAstra) – AI-powered VIA screening.  
+- [VIAstra](https://github.com/nishat09/VIAstra) – AI-powered VIA screening (MERN + Flask + CNN).  
 - [BurnOut Multi-Agent Exercise Planner](https://github.com/nishat09/BurnOut-MultiAgent-Exercise-Planner) – Multi-agent fitness planner.  
 - [Social Stock Discussion App](https://github.com/nishat09/Stock-Market-Media) – C#/.NET + SQL Server stock community platform.  
 
