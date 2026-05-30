@@ -17,7 +17,7 @@ Engineer at **Qubits Limited** and M.S. Data Science & Analytics candidate at **
 | [**VIAstra**](https://github.com/nishat09/VIAstra) | AI-assisted cervical-cancer screening — cut diagnostic error `33% → 11%` |
 | [**SupportX**](https://www.linkedin.com/pulse/supportx-how-we-engineered-retrieval-augmented-ai-system-aziz-ahmed-4jwwc) | Azure RAG platform — `~60%` fewer L1 tickets, response time `~25s → ~1.3s` |
 | [**Churn Pipeline**](https://www.linkedin.com/pulse/mlops-real-world-gpu-driven-deep-kernel-learning-churn-aziz-ahmed-qjvvc) | Self-retraining Azure MLOps with GPU Deep Kernel Learning |
-| [**Phishing URL Detection**](https://github.com/nishat09/Phishing-URL-Detection-System) | ML model that reads URL features to flag malicious links |
+
 
 ### Writing
 
