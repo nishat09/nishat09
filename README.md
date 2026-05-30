@@ -1,18 +1,42 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="28"/> <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="28"/>
+# Aziz Ahmed
 
+**Software Engineer — ML / AI**  ·  Virginia, USA 🇺🇸 ↔ Bangladesh 🇧🇩  ·  `EST`
 
-📌 Virginia, USA <br>
-⌚ EST
-## Hola 👋  
+> Machine learning, healthcare, and the systems that put models into production.
 
-- Currently working on [VIAstra](https://github.com/nishat09/VIAstra)
+Engineer at **Qubits Limited** and M.S. Data Science & Analytics candidate at **Old Dominion University**. Before that — AI research on cervical-cancer screening, enterprise retrieval-augmented systems, and a stretch in web-security testing.
 
-## 🔨 Gears
-
-| 📝 **Languages** | 🤖 **ML / AI / GenAI** | 🧱 **Frameworks** | ⚙️ **Tools & Platforms** |
-|---|---|---|---|
-| <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,js&perline=4" /><br/> <img src="https://skillicons.dev/icons?i=ts,swift,html,css&perline=4" /><br/> <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white"> </div> | <div align="center"> <!-- Row 1 --> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,huggingface&perline=4" /><br/> <!-- Row 2 --> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C"> <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20GenAI-F80000?logo=oracle&logoColor=white"><br/> <!-- Row 3 --> <img src="https://img.shields.io/badge/Prompt%20Engineering-7A36F5?logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"> </div> | <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=4" /><br/> <img src="https://skillicons.dev/icons?i=dotnet,django,flask,streamlit&perline=4" /><br/> <img src="https://img.shields.io/badge/REST%20APIs-0b82f2"> <img src="https://img.shields.io/badge/SOAP-6c757d"> </div> | <div align="center"> <img src="https://skillicons.dev/icons?i=git,docker,postman,linux&perline=4" /><br/> <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,postgres&perline=4" /><br/> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white"> </div> |
+**Currently** — building [VIAstra](https://github.com/nishat09/VIAstra) · Health-AI · Oracle-certified GenAI
 
 ---
 
+### Selected work
 
+| Project | What it is |
+| --- | --- |
+| [**VIAstra**](https://github.com/nishat09/VIAstra) | AI-assisted cervical-cancer screening — cut diagnostic error `33% → 11%` |
+| [**SupportX**](https://www.linkedin.com/pulse/supportx-how-we-engineered-retrieval-augmented-ai-system-aziz-ahmed-4jwwc) | Azure RAG platform — `~60%` fewer L1 tickets, response time `~25s → ~1.3s` |
+| [**Churn Pipeline**](https://www.linkedin.com/pulse/mlops-real-world-gpu-driven-deep-kernel-learning-churn-aziz-ahmed-qjvvc) | Self-retraining Azure MLOps with GPU Deep Kernel Learning |
+| [**Phishing URL Detection**](https://github.com/nishat09/Phishing-URL-Detection-System) | ML model that reads URL features to flag malicious links |
+
+### Writing
+
+- [A clinical NLP pipeline that touches an LLM exactly once](https://www.linkedin.com/posts/nishataziz_a-clinical-nlp-pipeline-without-wrapping-activity-7438222440033505281-ErO8)
+- [MLOps in the real world — GPU-driven Deep Kernel Learning for churn](https://www.linkedin.com/pulse/mlops-real-world-gpu-driven-deep-kernel-learning-churn-aziz-ahmed-qjvvc)
+- [SupportX — engineering a retrieval-augmented AI system](https://www.linkedin.com/pulse/supportx-how-we-engineered-retrieval-augmented-ai-system-aziz-ahmed-4jwwc)
+
+### Toolbox
+
+**Languages** &nbsp; `Python` `TypeScript` `C++` `C#` `JavaScript` `SQL`
+
+**ML & AI** &nbsp; `PyTorch` `TensorFlow` `scikit-learn` `LangChain` `Hugging Face` `OpenAI API` `MLflow`
+
+**Backend & Web** &nbsp; `Node.js` `Express` `FastAPI` `Flask` `Django` `.NET` `React` `Next.js`
+
+**Infra & Data** &nbsp; `Docker` `Kubernetes` `AWS` `Azure` `PostgreSQL` `MongoDB` `Terraform` `Git`
+
+---
+
+### Elsewhere
+
+[Portfolio](https://your-portfolio-url.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nishataziz/) &nbsp;·&nbsp; [Email](mailto:ahmedazizswe@gmail.com)
